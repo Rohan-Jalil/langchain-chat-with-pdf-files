@@ -7,10 +7,13 @@ name = "pypi"
 pypdf = "*"
 tiktoken = "*"
 openai = "*"
+isort = "*"
+streamlit = "*"
 black = "*"
 python-dotenv = "*"
 faiss-cpu = "*"
 langchain = "*"
+docarray = "*"
 
 [dev-packages]
 
